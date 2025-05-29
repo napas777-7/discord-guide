@@ -23,4 +23,4 @@
 
 1. Завантажити або клонувати цей репозиторій:
    ```bash
-   git clone https://github.com/твій_нікнейм/discord-guide.git
+   git clone https://github.com/napas777-7/discord-guide.git
